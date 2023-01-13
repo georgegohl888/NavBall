@@ -1,0 +1,10 @@
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\bin\Debug\NavBall2.exe.config
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\bin\Debug\NavBall2.exe
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\bin\Debug\NavBall2.pdb
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\obj\Debug\NavBall2.csprojAssemblyReference.cache
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\obj\Debug\NavBall2.Form1.resources
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\obj\Debug\NavBall2.Properties.Resources.resources
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\obj\Debug\NavBall2.csproj.GenerateResource.cache
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\obj\Debug\NavBall2.csproj.CoreCompileInputs.cache
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\obj\Debug\NavBall2.exe
+C:\Users\george.gohl\source\repos\NavBall2\NavBall2\obj\Debug\NavBall2.pdb
